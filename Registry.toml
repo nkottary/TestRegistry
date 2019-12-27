@@ -4,3 +4,4 @@ repo = "https://github.com/nkottary/TestRegistry"
 
 [packages]
 cb761652-754a-11e9-1d2d-6dcc2b16127a = { name = "AnotherTest", path = "A/AnotherTest" }
+ea2dc79c-39a3-11e9-2ecd-813404230491 = { name = "Privatesh", path = "P/Privatesh" }
