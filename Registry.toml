@@ -1,0 +1,5 @@
+name = "TestRegistry"
+uuid = "c997aecc-0a5e-49f8-a72e-b17db5f41447"
+repo = "https://github.com/nkottary/TestRegistry"
+
+[packages]
