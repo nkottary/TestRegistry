@@ -3,6 +3,7 @@ uuid = "c997aecc-0a5e-49f8-a72e-b17db5f41447"
 repo = "https://github.com/nkottary/TestRegistry"
 
 [packages]
+5497687e-e4d1-4cb6-b14f-a6a808518ccd = { name = "GreekSyntax", path = "G/GreekSyntax" }
 c21cdcaf-0d93-4d92-8cdb-99636d8a79d4 = { name = "SampleDash", path = "S/SampleDash" }
 cb761652-754a-11e9-1d2d-6dcc2b16127a = { name = "AnotherTest", path = "A/AnotherTest" }
 ea2dc79c-39a3-11e9-2ecd-813404230491 = { name = "Privatesh", path = "P/Privatesh" }
