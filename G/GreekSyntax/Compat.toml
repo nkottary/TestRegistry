@@ -1,0 +1,13 @@
+[0]
+CitableBase = "10"
+CitableCorpus = "0.13"
+CitableText = "0.15"
+Compat = "4"
+DocStringExtensions = "0.9"
+Documenter = "0.27"
+Kroki = "0.2"
+Orthography = "0.18"
+PolytonicGreek = "0.18"
+StringDistances = "0.11"
+TestSetExtensions = "2"
+julia = "1"
